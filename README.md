@@ -53,13 +53,41 @@ For this project, we will be utilizing Power BI, chosen for its user-friendly in
 
 **Creating Dashboard:**
 
+In the process of developing our dashboard using Power BI, we've identified key performance indicators (KPIs) and visual elements to convey meaningful insights. Here's a clear and pointwise explanation:
+
+KPIs:
+- Maximum Attacks in a Year- Highlights the year with the highest number of attacks.
+- Total Attacks- Presents an overview of the overall number of attacks in the dataset.
+- Kills in Attacks- Provides a total count of casualties resulting from the attacks.
+- Most Used Weapon- Identifies the weapon type that is most frequently employed.
+- Most Deadly Group- Points out the attacker group associated with the highest casualty count.
+
+Donut Charts:
+- Weapon Type and Success- Illustrates the distribution of success outcomes based on weapon types.
+- Attack Type and Success- Displays the relationship between attack types and their success rates.
+- Target Type and Success- Shows how success varies based on different target types.
+
+Line Chart: 
+- Success Rate by Year- Visualizes the success rate trend over the years, providing insights into the effectiveness of countermeasures.
+
+Bar Chart: 
+- Region and Success- Depicts success rates in different regions, aiding in regional trend analysis.
+
+Column Chart: 
+- Attacker Group Name and Success- Presents success rates associated with different attacker groups.
+
+Map: 
+- City-wise Success Rate- Utilizes a geographical map to display success rates, allowing for a spatial understanding.
+
+Slicer: 
+- Region- Enables users to filter the dashboard based on regions, offering a more focused view of the data.
 
 **Insights:**
 
 
 
-
 ## Acknowledgements
+
 
 
 > [!NOTE]
