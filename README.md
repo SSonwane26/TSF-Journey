@@ -1,7 +1,7 @@
 # TSF-Journey
 Story of my journey in The Spark Foundation as Intern, complete information of my Projects and my Final Presentations.
 
-Good Morning, I am Saurabh. Today, I'm here to provide detailed information about my journey as a data analyst intern at The Spark Foundation.
+Good Morning, I am Saurabh. Today, I'm here to provide detailed information about my journey as a intern at The Spark Foundation.
 
 ### About Me
 First, let me introduce myself. My name is Saurabh Sonwane. I hold a degree in mechanical engineering and have been working as a Graduate Engineer Trainee (GET) in a multinational corporation. During my tenure there, my curiosity was piqued by the world of data sciences and analytics. I embarked on a journey to learn various analysis techniques, utilizing tools such as MS Excel and PowerBI. Additionally, I honed my programming skills in SQL and Python.
@@ -23,7 +23,7 @@ EDA: Exploratory Data Analysis, is a crucial phase in the data analysis process.
 
 **About Dataset:**
 
-This comprehensive dataset contains information on over 180,000 terrorist attacks from 1970 to 2018, including details such as date, location, target, perpetrator, and fatalities. The dataset comprises a table with the following key columns:
+This comprehensive dataset contains information on over 180,000 terrorist attacks from 1970 to 2017, including details such as date, location, target, perpetrator, and fatalities. The dataset comprises a table with the following key columns:
 - Attack Date- Records the date of each incident.
 - Attack Locations- Specifies the locations where the attacks occurred.
 - Attack Rates- Provides information on the rates associated with the attacks.
@@ -101,41 +101,21 @@ The analysis of the dataset has yielded several insightful findings:
 
 These insights provide a comprehensive understanding of the patterns and dynamics within the dataset, allowing for informed decision-making and strategic planning in the realm of security and defense.
 
-**Suggections:**
+**Suggestions:**
 
 As a military and defense analyst, here are some straightforward suggestions based on the insights gathered:
-
-1. **Enhance Security Measures in 2014 Hotspots:**
-   - Given that 2014 experienced the highest number of attacks, consider reinforcing security measures in regions where these incidents occurred most frequently. Allocate additional resources and personnel to these areas.
-
-2. **Global Coordination for Counterterrorism Efforts:**
-   - With a total of 175,230 attacks over time, advocate for increased international collaboration in counterterrorism efforts. Sharing intelligence and resources globally can contribute to more effective prevention and response strategies.
-
-3. **Focus on Explosive Countermeasures:**
+1. Focus on Explosive Countermeasures:
    - Since explosives are the most commonly used weapons, prioritize the development and implementation of advanced countermeasures against explosive devices. This may include investing in technology for detection and disposal.
-
-4. **Target Taliban and High-Risk Groups:**
+1. Target Taliban and High-Risk Groups:
    - Given that the Taliban is identified as the most deadly group, direct efforts toward countering their activities. Formulate targeted strategies and intelligence operations to disrupt their operations.
-
-5. **Multi-pronged Approach to Counter Terrorism:**
-   - Address the top three attack types—bombing/explosions, armed assault, and assassination—through a multi-pronged approach. This could involve intelligence gathering, law enforcement cooperation, and public awareness campaigns.
-
-6. **Protect Civilian and Key Infrastructure:**
+1. Protect Civilian and Key Infrastructure:
    - Prioritize the protection of private citizens and property, as well as critical infrastructure. Develop plans and strategies to safeguard civilians and key assets in the event of an attack.
-
-7. **Monitor and Combat Rising Groups:**
+1. Monitor and Combat Rising Groups:
    - Keep a close eye on emerging threat groups, especially those ranking just below the Taliban and ISIL. Early detection and proactive measures can prevent these groups from gaining prominence.
-
-8. **Regional Focus in Middle East, North Africa, and South Asia:**
-   - Concentrate efforts on regions with the highest frequency of attacks, such as the Middle East, North Africa, and South Asia. Tailor security strategies to address specific challenges unique to each region.
-
-9. **Continuous Global Threat Assessment:**
+1. Continuous Global Threat Assessment:
    - Given the increasing trend in global attacks year by year, establish a system for continuous threat assessment. Regularly review and update security protocols based on evolving patterns and emerging threats.
-
-10. **Public-Private Partnerships for Security:**
+1. Public-Private Partnerships for Security:
     - Foster partnerships between the public and private sectors to enhance overall security. Collaboration with businesses, communities, and individuals can create a more resilient and responsive security environment.
-
-These suggestions aim to provide actionable steps in addressing the identified challenges and contributing to a more secure and resilient defense posture.
 
 ## Acknowledgements
 
