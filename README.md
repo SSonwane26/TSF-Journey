@@ -13,7 +13,7 @@ Their flagship program, GRIP, provides students with hands-on experience in vari
 
 ## About Projects
 ### Project One
-EDA-Terrorism [Report]()
+EDA-Terrorism [Report](https://github.com/SSonwane26/TSF-Journey/blob/main/terrorism_analysis.pdf)
 
 Definition of terrorism: "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
