@@ -13,7 +13,7 @@ Their flagship program, GRIP, provides students with hands-on experience in vari
 
 ## About Projects
 ### Project One
-EDA-Terrorism [Report](https://app.powerbi.com/view?r=eyJrIjoiNzhjYzA2ZWItYzMxYi00NGRlLWE0MTktOWQ2MTI3ZTQ1M2Q3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+Power BI [Report](https://app.powerbi.com/view?r=eyJrIjoiNzhjYzA2ZWItYzMxYi00NGRlLWE0MTktOWQ2MTI3ZTQ1M2Q3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 Definition of terrorism: "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation."
 
